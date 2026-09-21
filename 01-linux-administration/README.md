@@ -1,3 +1,4 @@
 Documentation of hands-on Linux administration practice as the operating-system foundation for Oracle database environments — installing Linux from scratch, managing users and groups, configuring file permissions, controlling processes and services, basic networking setup, disk/LVM/filesystem management, and SSH access.
 
 Full step-by-step documentation: [linux-installation.pdf](./linux-installation.pdf)
+Full step-by-step documentation: [linux-administration.pdf](./linux-administration.pdf)
