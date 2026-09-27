@@ -49,7 +49,7 @@ verification, screenshots, and troubleshooting notes where applicable.
 | 04 | [backup-recovery-rman](./04-backup-recovery-rman/) | Backup, restore, recovery, archive logs, FRA, PITR |
 | 05 | [data-guard](./05-data-guard/) | Primary/Standby, redo transport, redo apply, Broker, Switchover, Failover |
 | 06 | [Oracle RAC & Grid Infrastructure](./06-oracle-rac/) | Grid Infrastructure, Clusterware, ASM, SCAN, VIP, RAC |
-| 07 | [Oracle Enterprise Manager](./07-oracle-enterprise-manager/) | Monitoring, performance, alerts, jobs, maintenance |
+| 07 | [oem](./07-oem/) | Monitoring, performance, alerts, jobs, maintenance |
 
 ---
 
@@ -227,7 +227,7 @@ Topics include:
 - Database maintenance
 - Target monitoring
 
-→ [Open OEM Documentation](./07-oracle-enterprise-manager/)
+→ [Open OEM Documentation][oracle-enterprise-manager.pdf](./oracle-enterprise-manager.pdf)
 
 ---
 
