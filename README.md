@@ -44,10 +44,10 @@ verification, screenshots, and troubleshooting notes where applicable.
 | # | Project | Topics |
 |---|---------|--------|
 | 01 | [Linux Administration](./01-linux-administration/) | Linux commands, users, permissions, processes, services, networking, storage |
-| 02 | [Oracle 19c Installation](./02-oracle-19c-installation/) | Oracle installation, Oracle Home, Oracle Base, Listener, TNS, CDB/PDB |
-| 03 | [Oracle DBA Administration](./03-oracle-dba-administration/) | Users, privileges, tablespaces, datafiles, redo, undo, parameters |
-| 04 | [RMAN Backup & Recovery](./04-rman-backup-recovery/) | Backup, restore, recovery, archive logs, FRA, PITR |
-| 05 | [Oracle Data Guard](./05-data-guard/) | Primary/Standby, redo transport, redo apply, Broker, Switchover, Failover |
+| 02 | [oracle-installation](./02-oracle-installation/) | Oracle installation, Oracle Home, Oracle Base, Listener, TNS, CDB/PDB |
+| 03 | [oracle-dba-administration](./03-oracle-dba-administration/) | Users, privileges, tablespaces, datafiles, redo, undo, parameters |
+| 04 | [backup-recovery-rman](./04-backup-recovery-rman/) | Backup, restore, recovery, archive logs, FRA, PITR |
+| 05 | [data-guard](./05-data-guard/) | Primary/Standby, redo transport, redo apply, Broker, Switchover, Failover |
 | 06 | [Oracle RAC & Grid Infrastructure](./06-oracle-rac/) | Grid Infrastructure, Clusterware, ASM, SCAN, VIP, RAC |
 | 07 | [Oracle Enterprise Manager](./07-oracle-enterprise-manager/) | Monitoring, performance, alerts, jobs, maintenance |
 
