@@ -105,7 +105,7 @@ Topics include:
 - LVM
 - SSH
 
-→ [Open Linux Documentation](./linux-installation.pdf) · [PDF](./linux-installation.pdf)
+→ [Open Linux Documentation](./linux-installation.pdf)
 ---
 
 ## 02 — Oracle Database 19c Installation
