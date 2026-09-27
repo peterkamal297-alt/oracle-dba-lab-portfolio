@@ -105,7 +105,7 @@ Topics include:
 - LVM
 - SSH
 
-→ [Open Linux Documentation](./01-linux-administration/)
+→ [Open Linux Documentation][linux-installation.pdf](./linux-installation.pdf)
 
 ---
 
