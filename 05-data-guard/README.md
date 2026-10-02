@@ -10,4 +10,4 @@ Configures high availability (HA) and disaster recovery (DR) solutions by mainta
 * **Broker & Failover Testing:** Configured Oracle Data Guard Broker and executed controlled switchover and failover validations.
 
 ## 📁 Files & Documentation
-* *Documentation and Guides Coming Soon*
+* [data-guard-documented Guide (PDF)](./data-guard-documented.pdf)
