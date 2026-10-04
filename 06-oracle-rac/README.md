@@ -10,4 +10,4 @@ Deploys scalable, fault-tolerant clustered database architecture using Oracle Gr
 * **Multi-Instance Lifecycle:** Deployed multi-instance database nodes with load balancing and failover capabilities.
 
 ## 📁 Files & Documentation
-* [\oracle-rac-documented Guide (PDF)](./oracle-rac-documented.pdf)
+* [oracle-rac-documented Guide (PDF)](./oracle-rac-documented.pdf)
